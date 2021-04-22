@@ -1,3 +1,2 @@
 # CreativeTechSpring2021
-This will hold the code and other stuff related to the CT3 class at ArtCenter in the Spring of 2021
-
+PLease check the Address for my Creative Technology Project Documentation:https://www.tingyidesign.com/creative-technology 
